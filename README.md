@@ -9,3 +9,5 @@ Then edit README.md like this, commit changes and run ...
 ```
 git pull
 ```
+### Install node-sass
+```npm i node-sass -save```
